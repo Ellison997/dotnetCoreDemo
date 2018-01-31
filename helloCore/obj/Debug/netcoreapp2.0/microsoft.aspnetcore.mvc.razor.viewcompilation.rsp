@@ -1,0 +1,12 @@
+D:\project\helloCore
+--output-path=obj\Debug\netcoreapp2.0\
+--application-name=helloCore
+--content-root=D:\project\helloCore
+--file=D:\project\helloCore\Views\Home\About.cshtml
+--file=D:\project\helloCore\Views\Home\Contact.cshtml
+--file=D:\project\helloCore\Views\Home\Index.cshtml
+--file=D:\project\helloCore\Views\Shared\Error.cshtml
+--file=D:\project\helloCore\Views\Shared\_Layout.cshtml
+--file=D:\project\helloCore\Views\Shared\_ValidationScriptsPartial.cshtml
+--file=D:\project\helloCore\Views\_ViewImports.cshtml
+--file=D:\project\helloCore\Views\_ViewStart.cshtml
